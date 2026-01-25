@@ -1,4 +1,4 @@
-👋 Hi, I’m @harcos-harison
+👋 Hi, I’m Ibrahim or nickname @harcos.harison
 
 👀 I’m interested in  
 Backend & Full-stack development, Python ecosystem, API design, automation, data parsing, and building real-world products.  
