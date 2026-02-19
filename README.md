@@ -22,4 +22,5 @@ Especially into FastAPI, Django, Telegram bots, integrations, and startup-like p
 📫 How to reach me  
 - GitHub: https://github.com/harcos-harison
 - Gmail: harcos.harison@gmail.com
+- Telegram channel: https://t.me/base_junior
 
